@@ -43,7 +43,7 @@ int main(int argc, char **argv) {
         if (!strcmp(predefined_md5, new_md5)) {
                 printf("md5 matched\n");
         } else {
-                printf("md5 not matched \n");
+                printf("md5 not matched  also\n");
         }
 		//****comment**///
 
